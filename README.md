@@ -19,3 +19,16 @@ En esta imagen se muestra el mapa mas de cerca, donde se pueden apreciar diferen
 <img width="576" height="242" alt="Captura de pantalla 2025-11-13 170648" src="https://github.com/user-attachments/assets/e83359c4-11cd-4f35-8c21-d62187f4da27" />
 
 Esta ventana será la que se mostrará al hacer click en una de las paradas, mostrando la poca información que se ofrece en los datos que se pueden obtener sobre ellas
+
+### MOVIMIENTO DE LA CÁMARA
+
+Para el movimiento de la cámara se hace uso de:
+
+w-> Hacer zoom.
+s-> Alejarse.
+a-> Movimiento a la izquierda.
+d-> Movimiento a la derecha.
+Flecha hacia arriba-> Movimiento hacia arriba.
+Flecha hacia abajo-> Movimiento hacia abajo.
+
+Hay un [video](https://www.youtube.com/watch?v=GVwk0blGHC0) subido a Youtube donde enseño el funcionamiento, también se encuentra el video subido a este repositorio que se puede descargar
